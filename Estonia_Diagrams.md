@@ -1,2 +1,11 @@
-> **Source:** [Estonia Diagrams.docx](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Estonia/5. Other Documents/Estonia Diagrams.docx)
+---
+country: Estonia
+document_name: Estonia Diagrams
+source_file: Estonia Diagrams.docx
+extracted_date: 2026-04-30
+jurisdiction: Estonia
+---
 
+# Estonia Diagrams
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
